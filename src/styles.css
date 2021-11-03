@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.letterHidden {
+  text-align: center;
+  padding: 10px;
+  margin: 20px;
+}
+
+.letter {
+  text-align: center;
+  padding: 10px;
+}
+
+.button {
+  margin: 5px;
+  padding: 4px;
+  height: 25px;
+  width: 25px;
+}
+
+.alphabet {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 80%;
+  border: thin solid #ddd;
+}
